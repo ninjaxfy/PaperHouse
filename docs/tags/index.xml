@@ -4,25 +4,6 @@
     <title>Tags on Papper-Reading Logs</title>
     <link>https://ninjaxfy.github.io/PaperHouse/tags/</link>
     <description>Recent content in Tags on Papper-Reading Logs</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ninjaxfy.github.io/PaperHouse/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Documentation</title>
-      <link>https://ninjaxfy.github.io/PaperHouse/tags/Documentation/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ninjaxfy.github.io/PaperHouse/tags/Documentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Updates</title>
-      <link>https://ninjaxfy.github.io/PaperHouse/tags/Updates/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ninjaxfy.github.io/PaperHouse/tags/Updates/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ninjaxfy.github.io/PaperHouse/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
